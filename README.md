@@ -12,4 +12,4 @@ Enjoy and have fun.
 <p align="center"><img src="https://i.imgur.com/DFIXMFI.png" width="512" align="center"><br>
 
 ## 🔽 Download
-You can download pre-build binaries from [https://github.com/shahadatofficial10/raygun-fivem-cheats/releases/download/Release-win/Raygun-FiveM-win.zip](here)
+You can download pre-build binaries from [here](https://github.com/shahadatofficial10/raygun-fivem-cheats/releases/download/Release-win/Raygun-FiveM-win.zip)
